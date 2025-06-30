@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 gem 'bcrypt', '~> 3.1.7'
-gem 'jwt', '~> 2.0'
+gem 'jwt', '~> 3.1'
 gem 'pundit', '~> 2.1'
 gem 'faker'
 
